@@ -1,5 +1,6 @@
 <template>
 	<div>
+    <h1>Blockchain, Smartcontract app using Nuxt.js</h1>
 		<p>
 			<input
 			type="text"
@@ -18,7 +19,7 @@
 			>
 			Get Number from contract
 			</button>
-			Number:{{number}}
+			Number : {{number}}
 		</p>
 	</div>
 </template>
