@@ -1,4 +1,8 @@
 export default {
+
+  // to do 'nuxt generate'
+  target: 'static',
+
 	ssr: false,
 	generate: {
 		dir: "public"
@@ -17,7 +21,7 @@ export default {
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/my-profile-pic-no-bg.png' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
 
