@@ -5,7 +5,7 @@
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.1.2/dist/tailwind.min.css" rel="stylesheet">
     <div class="max-w-4xl mx-auto sm:px-6 lg:px-8">
       <h2 class="text-3xl leading-7 font-semibold">
-        Smartcontract Test app
+        スマートコントラクト
       </h2>
       <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
         <p class="mt-3 text-gray-600">
